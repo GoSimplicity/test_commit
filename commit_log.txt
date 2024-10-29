@@ -20,3 +20,10 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 commit_log.txt
 To github.com:GoSimplicity/testaaaa.git
    3a5bf3c7..f2274d19  main -> main
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+From github.com:GoSimplicity/testaaaa
+ * branch              main       -> FETCH_HEAD
+Already up to date.
