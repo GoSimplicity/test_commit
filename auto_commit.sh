@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# 切换到包含 .git 仓库的工作目录
+cd /root/testaaaa
+
 # 设置随机提交内容
 commit_message="Auto-commit: $(date) - $(openssl rand -hex 4)"
 
